@@ -1,0 +1,8 @@
+# Lazarus / Free Pascal
+*.ppu
+*.o
+*.exe
+*.res
+*.lps
+*.lpi
+*.lfm~
